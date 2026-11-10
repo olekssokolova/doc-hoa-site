@@ -1,0 +1,261 @@
+{
+ "version": 1,
+ "series": [
+  {
+   "id": "classics",
+   "title_zh": "四大美女与三国",
+   "title_vi": "Kinh điển Trung Hoa: Tứ đại mỹ nhân và Tam Quốc",
+   "level": 4,
+   "description_vi": "Truyền thuyết về Tứ đại mỹ nhân Trung Hoa cổ đại và những hồi nổi tiếng trong tiểu thuyết Tam Quốc diễn nghĩa.",
+   "cover_id": "classics01"
+  },
+  {
+   "id": "future",
+   "title_zh": "未来的神话",
+   "title_vi": "Thần thoại về tương lai",
+   "level": 4,
+   "description_vi": "Giáo sư Lâm sưu tầm quan niệm của nhiều dân tộc và tôn giáo về ngày tận thế và thế giới mai sau.",
+   "cover_id": "future01"
+  },
+  {
+   "id": "subject",
+   "title_zh": "我最喜欢的科目",
+   "title_vi": "Môn học tôi yêu thích nhất",
+   "level": 4,
+   "description_vi": "Các nhà khoa học, vận động viên và nghệ sĩ tự kể về môn học họ giỏi nhất thời đi học.",
+   "cover_id": "subject01"
+  },
+  {
+   "id": "tea",
+   "title_zh": "茶的故事",
+   "title_vi": "Chuyện về trà",
+   "level": 4,
+   "description_vi": "Người học việc của một nghệ nhân trà đi khắp Trung Quốc và khám phá bí quyết của những loại trà nổi tiếng nhất.",
+   "cover_id": "tea01"
+  },
+  {
+   "id": "tcm",
+   "title_zh": "林医生的中医故事",
+   "title_vi": "Chuyện Đông y của bác sĩ Lâm",
+   "level": 4,
+   "description_vi": "Một người học việc trẻ học y học cổ truyền Trung Quốc và cách nấu món ăn chữa bệnh từ một bác sĩ giàu kinh nghiệm.",
+   "cover_id": "tcm01"
+  },
+  {
+   "id": "redchamber",
+   "title_zh": "红楼梦新说",
+   "title_vi": "Hồng lâu mộng kể lại",
+   "level": 5,
+   "description_vi": "Tiểu thuyết kinh điển Hồng lâu mộng bằng tiếng Trung hiện đại dễ hiểu: tình yêu, thi ca và sự suy tàn của một đại gia tộc.",
+   "cover_id": "redchamber01"
+  },
+  {
+   "id": "classicpoems",
+   "title_zh": "诗词与歌曲的故事",
+   "title_vi": "Chuyện đằng sau những bài thơ và bài hát nổi tiếng",
+   "level": 5,
+   "description_vi": "Cuộc đời và giai thoại đằng sau những bài thơ, bài hát nổi tiếng nhất Trung Quốc, từ Lý Bạch đến ngày nay.",
+   "cover_id": "classicpoems01"
+  },
+  {
+   "id": "modernslang",
+   "title_zh": "网络新词小故事",
+   "title_vi": "Từ lóng mới, chuyện mới",
+   "level": 5,
+   "description_vi": "Những câu chuyện sinh động về tiếng lóng và từ mạng của giới trẻ hôm nay (996, 内卷, 躺平, yyds, 破防了, emo了, 润学…) nơi công sở, trường học và mạng xã hội.",
+   "cover_id": "modernslang01"
+  },
+  {
+   "id": "scifi",
+   "title_zh": "科幻故事新编",
+   "title_vi": "Khoa học viễn tưởng Trung Quốc",
+   "level": 5,
+   "description_vi": "Những truyện mới theo tinh thần khoa học viễn tưởng Trung Quốc: vũ trụ, trí tuệ nhân tạo và tương lai loài người.",
+   "cover_id": "scifi01"
+  },
+  {
+   "id": "ruraltales",
+   "title_zh": "当代文学故事",
+   "title_vi": "Chuyện Trung Quốc đương đại",
+   "level": 5,
+   "description_vi": "Những truyện mới về cuộc sống làng quê và đổi thay ở Trung Quốc hiện đại, theo tinh thần văn chương của Mạc Ngôn và các nhà văn cùng thời.",
+   "cover_id": "ruraltales01"
+  },
+  {
+   "id": "humour",
+   "title_zh": "中国幽默故事",
+   "title_vi": "Chuyện cười Trung Quốc",
+   "level": 6,
+   "description_vi": "Tuyển tập chuyện vui, truyện cười và những sự cố khôi hài trong đời sống thường ngày ở Trung Quốc hiện đại.",
+   "cover_id": "humour01"
+  },
+  {
+   "id": "professions",
+   "title_zh": "职业故事",
+   "title_vi": "Nghề nghiệp: chuyện và từ vựng",
+   "level": 6,
+   "description_vi": "Người làm đủ mọi nghề, từ phi công đến thợ làm bánh, kể về công việc và những từ ngữ họ cần dùng.",
+   "cover_id": "professions01"
+  },
+  {
+   "id": "chinahistory",
+   "title_zh": "中国历史故事",
+   "title_vi": "Lịch sử Trung Quốc: từ thời cổ đến hôm nay",
+   "level": 6,
+   "description_vi": "Những sự kiện và thời kỳ quan trọng của lịch sử Trung Quốc kể bằng lời dễ hiểu, từ các triều đại đầu tiên đến ngày nay.",
+   "cover_id": "chinahistory01"
+  },
+  {
+   "id": "corporations",
+   "title_zh": "中国企业家的故事",
+   "title_vi": "Doanh nghiệp Trung Quốc và người sáng lập",
+   "level": 6,
+   "description_vi": "Câu chuyện về những doanh nghiệp lớn nhất Trung Quốc và những người đã gây dựng nên chúng.",
+   "cover_id": "corporations01"
+  },
+  {
+   "id": "celebrities",
+   "title_zh": "中国名人故事",
+   "title_vi": "Người Trung Quốc nổi tiếng",
+   "level": 6,
+   "description_vi": "Các nhà khoa học, vận động viên, nghệ sĩ và nhiều người khác đã làm rạng danh Trung Quốc.",
+   "cover_id": "celebrities01"
+  },
+  {
+   "id": "destinations",
+   "title_zh": "中国旅游胜地",
+   "title_vi": "Những nơi đẹp ở Trung Quốc",
+   "level": 6,
+   "description_vi": "Hành trình qua những danh thắng đẹp và nổi tiếng nhất Trung Quốc dành cho người sắp đi du lịch.",
+   "cover_id": "destinations01"
+  },
+  {
+   "id": "ports",
+   "title_zh": "中国港口的故事",
+   "title_vi": "Cảng biển Trung Quốc khắp thế giới",
+   "level": 6,
+   "description_vi": "Câu chuyện về các cảng ở Trung Quốc và các cảng ở nước ngoài gắn với doanh nghiệp và vốn đầu tư Trung Quốc.",
+   "cover_id": "ports01"
+  },
+  {
+   "id": "construction",
+   "title_zh": "中国建筑奇迹",
+   "title_vi": "Kỳ quan công trình Trung Quốc",
+   "level": 6,
+   "description_vi": "Cầu, đập, nhà chọc trời và những kỳ tích kỹ thuật khác của Trung Quốc hiện đại.",
+   "cover_id": "construction01"
+  },
+  {
+   "id": "medicine",
+   "title_zh": "医院与药店的故事",
+   "title_vi": "Bác sĩ và nhà thuốc",
+   "level": 6,
+   "description_vi": "Chuyện về bệnh tật, chữa trị và thuốc men: từ vựng hữu ích khi đi khám bệnh hay ra hiệu thuốc.",
+   "cover_id": "medicine01"
+  },
+  {
+   "id": "engineering",
+   "title_zh": "科技与工程故事",
+   "title_vi": "Công nghệ, máy tính và kỹ thuật",
+   "level": 6,
+   "description_vi": "Từ máy tính, vi mạch đến những công trình lớn: chuyện từ thế giới công nghệ.",
+   "cover_id": "engineering01"
+  },
+  {
+   "id": "courtcases",
+   "title_zh": "法庭故事",
+   "title_vi": "Tại phiên tòa: chuyện và từ vựng pháp luật",
+   "level": 6,
+   "description_vi": "Những câu chuyện hư cấu ngắn diễn ra tại tòa án, giới thiệu từ vựng pháp luật.",
+   "cover_id": "courtcases01"
+  },
+  {
+   "id": "aitopics",
+   "title_zh": "人工智能的故事",
+   "title_vi": "Trí tuệ nhân tạo: chủ đề nóng",
+   "level": 6,
+   "description_vi": "Những câu chuyện và cuộc tranh luận về việc trí tuệ nhân tạo đang thay đổi cuộc sống con người.",
+   "cover_id": "aitopics01"
+  },
+  {
+   "id": "dramas",
+   "title_zh": "中国电视剧的故事",
+   "title_vi": "Phim truyền hình Trung Quốc",
+   "level": 6,
+   "description_vi": "Về những bộ phim truyền hình Trung Quốc được yêu thích nhất thuộc nhiều thể loại.",
+   "cover_id": "dramas01"
+  },
+  {
+   "id": "popsongs",
+   "title_zh": "中国流行歌曲的故事",
+   "title_vi": "Chuyện về nhạc pop Hoa ngữ",
+   "level": 6,
+   "description_vi": "Câu chuyện về những ca sĩ Hoa ngữ nổi tiếng và các bài hát đình đám nhất của họ (không trích lời bài hát).",
+   "cover_id": "popsongs01"
+  },
+  {
+   "id": "psychology",
+   "title_zh": "心理学小故事",
+   "title_vi": "Tâm lý học dễ hiểu",
+   "level": 6,
+   "description_vi": "Những câu chuyện và ý tưởng tâm lý học, giải thích đơn giản qua các tình huống đời thường.",
+   "cover_id": "psychology01"
+  },
+  {
+   "id": "futurevisions",
+   "title_zh": "未来的样子",
+   "title_vi": "Tương lai trong mắt các nền văn hóa",
+   "level": 6,
+   "description_vi": "Các nền văn hóa và thời đại khác nhau đã hình dung tương lai ra sao, từ truyền thuyết cổ xưa đến công nghệ hiện đại.",
+   "cover_id": "futurevisions01"
+  },
+  {
+   "id": "oddjobs",
+   "title_zh": "奇怪的职业",
+   "title_vi": "Những nghề kỳ lạ",
+   "level": 4,
+   "description_vi": "Chuyện về những nghề hiếm và bất ngờ trên khắp thế giới, từ người xếp hàng thuê đến nghệ sĩ huýt sáo.",
+   "cover_id": "oddjobs01"
+  },
+  {
+   "id": "recipes",
+   "title_zh": "中国美食做法",
+   "title_vi": "Nấu món Trung Hoa",
+   "level": 5,
+   "description_vi": "Câu chuyện và cách làm hai mươi món ăn nổi tiếng nhất của ẩm thực Trung Hoa.",
+   "cover_id": "recipes01"
+  },
+  {
+   "id": "eateries",
+   "title_zh": "著名餐厅",
+   "title_vi": "Nhà hàng và quán ăn nổi tiếng",
+   "level": 6,
+   "description_vi": "Câu chuyện về những nhà hàng, quán trà và hàng ăn đường phố nổi tiếng của Trung Quốc, từ tiệm trăm năm tuổi đến quán cà phê fusion hiện đại.",
+   "cover_id": "eateries01"
+  },
+  {
+   "id": "worldnews",
+   "title_zh": "世界好消息",
+   "title_vi": "Tin vui khắp thế giới",
+   "level": 5,
+   "description_vi": "Những tin tức tích cực từ khắp thế giới: phát hiện mới, kỷ lục và những người đang làm thế giới tốt đẹp hơn.",
+   "cover_id": "worldnews01"
+  },
+  {
+   "id": "riddles",
+   "title_zh": "汉字谜语",
+   "title_vi": "Câu đố chữ Hán",
+   "level": 6,
+   "description_vi": "Những câu đố chữ (字谜) truyền thống và hiện đại dựa vào hình dạng và âm đọc của chữ Hán, kèm lời giải thích cách đố.",
+   "cover_id": "riddles01"
+  },
+  {
+   "id": "funnytales",
+   "title_zh": "生活趣事",
+   "title_vi": "Chuyện vui đời thường",
+   "level": 5,
+   "description_vi": "Những chuyện ngắn vui nhộn về nhầm lẫn, trùng hợp và may mắn bất ngờ trong cuộc sống của người dân Trung Quốc hiện nay.",
+   "cover_id": "funnytales01"
+  }
+ ]
+}
