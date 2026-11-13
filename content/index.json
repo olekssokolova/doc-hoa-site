@@ -632,6 +632,15 @@
    "file": "haircut.json"
   },
   {
+   "id": "world_tigers",
+   "level": 1,
+   "title_zh": "印度的老虎多了",
+   "title_vi": "Hổ ở Ấn Độ nhiều hơn rồi",
+   "free": false,
+   "chars": 65,
+   "file": "world_tigers.json"
+  },
+  {
    "id": "dog",
    "level": 1,
    "title_zh": "我的小狗",
@@ -639,6 +648,15 @@
    "free": false,
    "chars": 65,
    "file": "dog.json"
+  },
+  {
+   "id": "world_notredame",
+   "level": 1,
+   "title_zh": "巴黎圣母院又开门了",
+   "title_vi": "Nhà thờ Đức Bà Paris mở cửa trở lại",
+   "free": false,
+   "chars": 65,
+   "file": "world_notredame.json"
   },
   {
    "id": "saturday",
@@ -704,6 +722,15 @@
    "file": "favoriteanimal1.json"
   },
   {
+   "id": "world_norway",
+   "level": 1,
+   "title_zh": "挪威的电动车",
+   "title_vi": "Ô tô điện ở Na Uy",
+   "free": false,
+   "chars": 66,
+   "file": "world_norway.json"
+  },
+  {
    "id": "basketball1",
    "level": 1,
    "title_zh": "打篮球",
@@ -720,6 +747,15 @@
    "free": false,
    "chars": 66,
    "file": "taxi.json"
+  },
+  {
+   "id": "world_axis",
+   "level": 1,
+   "title_zh": "北京的中轴线",
+   "title_vi": "Trục trung tâm của Bắc Kinh",
+   "free": false,
+   "chars": 67,
+   "file": "world_axis.json"
   },
   {
    "id": "strangercaution1",
@@ -758,6 +794,24 @@
    "file": "bday1.json"
   },
   {
+   "id": "world_coronation",
+   "level": 1,
+   "title_zh": "伦敦的国王",
+   "title_vi": "Nhà vua ở London",
+   "free": false,
+   "chars": 68,
+   "file": "world_coronation.json"
+  },
+  {
+   "id": "world_change6",
+   "level": 1,
+   "title_zh": "月亮背面的土",
+   "title_vi": "Đất từ mặt sau của Mặt Trăng",
+   "free": false,
+   "chars": 68,
+   "file": "world_change6.json"
+  },
+  {
    "id": "city",
    "level": 1,
    "title_zh": "我的城市",
@@ -776,6 +830,15 @@
    "file": "pool.json"
   },
   {
+   "id": "world_songkran",
+   "level": 1,
+   "title_zh": "泰国的泼水节",
+   "title_vi": "Tết té nước của Thái Lan",
+   "free": false,
+   "chars": 70,
+   "file": "world_songkran.json"
+  },
+  {
    "id": "seasons",
    "level": 1,
    "title_zh": "四个季节",
@@ -783,6 +846,51 @@
    "free": false,
    "chars": 70,
    "file": "seasons.json"
+  },
+  {
+   "id": "world_jakarta",
+   "level": 1,
+   "title_zh": "印尼的高铁",
+   "title_vi": "Đường sắt cao tốc của Indonesia",
+   "free": false,
+   "chars": 71,
+   "file": "world_jakarta.json"
+  },
+  {
+   "id": "world_antarctica",
+   "level": 1,
+   "title_zh": "南极的新站",
+   "title_vi": "Trạm mới ở Nam Cực",
+   "free": false,
+   "chars": 72,
+   "file": "world_antarctica.json"
+  },
+  {
+   "id": "world_euro",
+   "level": 1,
+   "title_zh": "德国的足球夏天",
+   "title_vi": "Mùa hè bóng đá ở Đức",
+   "free": false,
+   "chars": 72,
+   "file": "world_euro.json"
+  },
+  {
+   "id": "world_worldcup",
+   "level": 1,
+   "title_zh": "三个国家的世界杯",
+   "title_vi": "World Cup của ba nước",
+   "free": false,
+   "chars": 72,
+   "file": "world_worldcup.json"
+  },
+  {
+   "id": "world_eclipse",
+   "level": 1,
+   "title_zh": "白天变黑了",
+   "title_vi": "Ban ngày bỗng tối sầm",
+   "free": false,
+   "chars": 72,
+   "file": "world_eclipse.json"
   },
   {
    "id": "grandma",
@@ -803,6 +911,15 @@
    "file": "bag.json"
   },
   {
+   "id": "world_womenscup",
+   "level": 1,
+   "title_zh": "女足世界杯",
+   "title_vi": "World Cup bóng đá nữ",
+   "free": false,
+   "chars": 72,
+   "file": "world_womenscup.json"
+  },
+  {
    "id": "park",
    "level": 1,
    "title_zh": "在公园",
@@ -819,6 +936,15 @@
    "free": false,
    "chars": 73,
    "file": "newclothes.json"
+  },
+  {
+   "id": "world_chandrayaan",
+   "level": 1,
+   "title_zh": "印度到了月亮上",
+   "title_vi": "Ấn Độ lên tới Mặt Trăng",
+   "free": false,
+   "chars": 73,
+   "file": "world_chandrayaan.json"
   },
   {
    "id": "favoritefood",
@@ -839,6 +965,15 @@
    "file": "neighbor1.json"
   },
   {
+   "id": "world_egypt",
+   "level": 1,
+   "title_zh": "金字塔旁边的博物馆",
+   "title_vi": "Bảo tàng cạnh kim tự tháp",
+   "free": false,
+   "chars": 74,
+   "file": "world_egypt.json"
+  },
+  {
    "id": "zoo",
    "level": 1,
    "title_zh": "去动物园",
@@ -855,6 +990,15 @@
    "free": false,
    "chars": 75,
    "file": "grandpa.json"
+  },
+  {
+   "id": "world_sydney",
+   "level": 1,
+   "title_zh": "悉尼歌剧院五十岁了",
+   "title_vi": "Nhà hát Opera Sydney tròn năm mươi tuổi",
+   "free": false,
+   "chars": 75,
+   "file": "world_sydney.json"
   },
   {
    "id": "visitfriend",
@@ -875,6 +1019,15 @@
    "file": "gift.json"
   },
   {
+   "id": "world_wukong",
+   "level": 1,
+   "title_zh": "玩游戏，去山西",
+   "title_vi": "Chơi game xong, đi Sơn Tây",
+   "free": false,
+   "chars": 76,
+   "file": "world_wukong.json"
+  },
+  {
    "id": "classmate",
    "level": 1,
    "title_zh": "我的同学",
@@ -893,6 +1046,24 @@
    "file": "convenience.json"
   },
   {
+   "id": "world_springfestival",
+   "level": 1,
+   "title_zh": "春节成了世界遗产",
+   "title_vi": "Tết Nguyên đán thành Di sản thế giới",
+   "free": false,
+   "chars": 77,
+   "file": "world_springfestival.json"
+  },
+  {
+   "id": "world_pandas",
+   "level": 1,
+   "title_zh": "熊猫去了美国",
+   "title_vi": "Gấu trúc sang Mỹ",
+   "free": false,
+   "chars": 78,
+   "file": "world_pandas.json"
+  },
+  {
    "id": "winter",
    "level": 1,
    "title_zh": "冬天",
@@ -900,6 +1071,15 @@
    "free": false,
    "chars": 78,
    "file": "winter.json"
+  },
+  {
+   "id": "world_nezha",
+   "level": 1,
+   "title_zh": "小哪吒，大电影",
+   "title_vi": "Na Tra bé nhỏ, bộ phim lớn",
+   "free": false,
+   "chars": 80,
+   "file": "world_nezha.json"
   },
   {
    "id": "sunday",
@@ -911,6 +1091,69 @@
    "file": "sunday.json"
   },
   {
+   "id": "world_zibo",
+   "level": 1,
+   "title_zh": "去淄博吃烧烤",
+   "title_vi": "Đến Truy Bác ăn đồ nướng",
+   "free": false,
+   "chars": 81,
+   "file": "world_zibo.json"
+  },
+  {
+   "id": "world_paris",
+   "level": 1,
+   "title_zh": "巴黎奥运会",
+   "title_vi": "Thế vận hội Paris",
+   "free": false,
+   "chars": 81,
+   "file": "world_paris.json"
+  },
+  {
+   "id": "world_harbin",
+   "level": 1,
+   "title_zh": "哈尔滨的“小土豆”",
+   "title_vi": "“Củ khoai tây nhỏ” ở Cáp Nhĩ Tân",
+   "free": false,
+   "chars": 83,
+   "file": "world_harbin.json"
+  },
+  {
+   "id": "world_sagrada",
+   "level": 1,
+   "title_zh": "建了一百四十年的教堂",
+   "title_vi": "Nhà thờ xây suốt 140 năm",
+   "free": false,
+   "chars": 83,
+   "file": "world_sagrada.json"
+  },
+  {
+   "id": "world_milan",
+   "level": 1,
+   "title_zh": "米兰冬奥会",
+   "title_vi": "Thế vận hội mùa đông Milan",
+   "free": false,
+   "chars": 83,
+   "file": "world_milan.json"
+  },
+  {
+   "id": "world_malaria",
+   "level": 1,
+   "title_zh": "孩子们的新疫苗",
+   "title_vi": "Vắc-xin mới cho trẻ em",
+   "free": false,
+   "chars": 84,
+   "file": "world_malaria.json"
+  },
+  {
+   "id": "world_diwali",
+   "level": 1,
+   "title_zh": "印度的排灯节",
+   "title_vi": "Lễ hội Diwali của Ấn Độ",
+   "free": false,
+   "chars": 84,
+   "file": "world_diwali.json"
+  },
+  {
    "id": "color",
    "level": 1,
    "title_zh": "我喜欢的颜色",
@@ -918,6 +1161,33 @@
    "free": false,
    "chars": 85,
    "file": "color.json"
+  },
+  {
+   "id": "world_osaka",
+   "level": 1,
+   "title_zh": "大阪世博会",
+   "title_vi": "Triển lãm Thế giới Osaka",
+   "free": false,
+   "chars": 89,
+   "file": "world_osaka.json"
+  },
+  {
+   "id": "world_sphere",
+   "level": 1,
+   "title_zh": "拉斯维加斯的大球",
+   "title_vi": "Quả cầu lớn ở Las Vegas",
+   "free": false,
+   "chars": 98,
+   "file": "world_sphere.json"
+  },
+  {
+   "id": "world_transit",
+   "level": 1,
+   "title_zh": "在中国玩十天",
+   "title_vi": "Chơi mười ngày ở Trung Quốc",
+   "free": false,
+   "chars": 101,
+   "file": "world_transit.json"
   },
   {
    "id": "evcharge2",
@@ -2690,6 +2960,18 @@
    "episode_count": 15
   },
   {
+   "id": "mythancient01",
+   "level": 4,
+   "title_zh": "少了九个太阳",
+   "title_vi": "Thám tử Bạch Trạch: Thần thoại thượng cổ (1/8): Chín mặt trời mất tích",
+   "free": true,
+   "chars": 261,
+   "file": "mythancient01.json",
+   "series": "mythancient",
+   "episode": 1,
+   "episode_count": 8
+  },
+  {
    "id": "tcm01",
    "level": 4,
    "title_zh": "拜师学医",
@@ -2700,6 +2982,18 @@
    "series": "tcm",
    "episode": 1,
    "episode_count": 15
+  },
+  {
+   "id": "firstaid01",
+   "level": 4,
+   "title_zh": "第一课：打电话",
+   "title_vi": "Lớp sơ cứu (1/20): Gọi cấp cứu thế nào",
+   "free": true,
+   "chars": 279,
+   "file": "firstaid01.json",
+   "series": "firstaid",
+   "episode": 1,
+   "episode_count": 20
   },
   {
    "id": "chengyu_spear4",
@@ -2718,6 +3012,18 @@
    "free": true,
    "chars": 349,
    "file": "midautumn.json"
+  },
+  {
+   "id": "mythdetective01",
+   "level": 4,
+   "title_zh": "画皮",
+   "title_vi": "Thám tử Bạch Trạch (1/15): Họa bì",
+   "free": true,
+   "chars": 359,
+   "file": "mythdetective01.json",
+   "series": "mythdetective",
+   "episode": 1,
+   "episode_count": 15
   },
   {
    "id": "wechat",
@@ -3701,6 +4007,18 @@
    "episode_count": 20
   },
   {
+   "id": "firstaid12",
+   "level": 4,
+   "title_zh": "第十二课：头往前，不往后",
+   "title_vi": "Lớp sơ cứu (12/20): Cúi về trước, đừng ngửa ra sau",
+   "free": false,
+   "chars": 203,
+   "file": "firstaid12.json",
+   "series": "firstaid",
+   "episode": 12,
+   "episode_count": 20
+  },
+  {
    "id": "oddjobs19",
    "level": 4,
    "title_zh": "推人员",
@@ -3725,6 +4043,18 @@
    "episode_count": 20
   },
   {
+   "id": "firstaid11",
+   "level": 4,
+   "title_zh": "第十一课：按住，别看",
+   "title_vi": "Lớp sơ cứu (11/20): Ấn chặt, đừng nhìn",
+   "free": false,
+   "chars": 222,
+   "file": "firstaid11.json",
+   "series": "firstaid",
+   "episode": 11,
+   "episode_count": 20
+  },
+  {
    "id": "oddjobs12",
    "level": 4,
    "title_zh": "电梯音乐作曲家",
@@ -3734,6 +4064,30 @@
    "file": "oddjobs12.json",
    "series": "oddjobs",
    "episode": 12,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid14",
+   "level": 4,
+   "title_zh": "第十四课：叫、伸、抛、划",
+   "title_vi": "Lớp sơ cứu (14/20): Gọi, chìa, ném, chèo",
+   "free": false,
+   "chars": 224,
+   "file": "firstaid14.json",
+   "series": "firstaid",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid16",
+   "level": 4,
+   "title_zh": "第十六课：别开灯",
+   "title_vi": "Lớp sơ cứu (16/20): Đừng bật đèn",
+   "free": false,
+   "chars": 224,
+   "file": "firstaid16.json",
+   "series": "firstaid",
+   "episode": 16,
    "episode_count": 20
   },
   {
@@ -3761,6 +4115,30 @@
    "episode_count": 20
   },
   {
+   "id": "firstaid15",
+   "level": 4,
+   "title_zh": "第十五课：高速公路上的三角牌",
+   "title_vi": "Lớp sơ cứu (15/20): Biển tam giác trên đường cao tốc",
+   "free": false,
+   "chars": 229,
+   "file": "firstaid15.json",
+   "series": "firstaid",
+   "episode": 15,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid04",
+   "level": 4,
+   "title_zh": "第四课：胸口的石头",
+   "title_vi": "Lớp sơ cứu (4/20): Hòn đá đè lên ngực",
+   "free": false,
+   "chars": 232,
+   "file": "firstaid04.json",
+   "series": "firstaid",
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
    "id": "oddjobs17",
    "level": 4,
    "title_zh": "口香糖味道研发师",
@@ -3770,6 +4148,66 @@
    "file": "oddjobs17.json",
    "series": "oddjobs",
    "episode": 17,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid17",
+   "level": 4,
+   "title_zh": "第十七课：先断电",
+   "title_vi": "Lớp sơ cứu (17/20): Ngắt điện trước",
+   "free": false,
+   "chars": 234,
+   "file": "firstaid17.json",
+   "series": "firstaid",
+   "episode": 17,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid19",
+   "level": 4,
+   "title_zh": "第十九课：就破了一点皮",
+   "title_vi": "Lớp sơ cứu (19/20): Chỉ trầy chút da thôi",
+   "free": false,
+   "chars": 234,
+   "file": "firstaid19.json",
+   "series": "firstaid",
+   "episode": 19,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid05",
+   "level": 4,
+   "title_zh": "第五课：按下去，别停",
+   "title_vi": "Lớp sơ cứu (5/20): Ấn xuống, đừng dừng",
+   "free": false,
+   "chars": 236,
+   "file": "firstaid05.json",
+   "series": "firstaid",
+   "episode": 5,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid07",
+   "level": 4,
+   "title_zh": "第七课：卡住了",
+   "title_vi": "Lớp sơ cứu (7/20): Bị hóc",
+   "free": false,
+   "chars": 236,
+   "file": "firstaid07.json",
+   "series": "firstaid",
+   "episode": 7,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid13",
+   "level": 4,
+   "title_zh": "第十三课：九月的操场",
+   "title_vi": "Lớp sơ cứu (13/20): Sân tập tháng Chín",
+   "free": false,
+   "chars": 237,
+   "file": "firstaid13.json",
+   "series": "firstaid",
+   "episode": 13,
    "episode_count": 20
   },
   {
@@ -3785,6 +4223,102 @@
    "episode_count": 20
   },
   {
+   "id": "firstaid10",
+   "level": 4,
+   "title_zh": "第十课：牙膏和酱油",
+   "title_vi": "Lớp sơ cứu (10/20): Kem đánh răng và xì dầu",
+   "free": false,
+   "chars": 245,
+   "file": "firstaid10.json",
+   "series": "firstaid",
+   "episode": 10,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid08",
+   "level": 4,
+   "title_zh": "第八课：别往嘴里塞东西",
+   "title_vi": "Lớp sơ cứu (8/20): Đừng nhét gì vào miệng",
+   "free": false,
+   "chars": 245,
+   "file": "firstaid08.json",
+   "series": "firstaid",
+   "episode": 8,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid09",
+   "level": 4,
+   "title_zh": "第九课：一、二、零",
+   "title_vi": "Lớp sơ cứu (9/20): Một, hai, không",
+   "free": false,
+   "chars": 245,
+   "file": "firstaid09.json",
+   "series": "firstaid",
+   "episode": 9,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid03",
+   "level": 4,
+   "title_zh": "第三课：地震",
+   "title_vi": "Lớp sơ cứu (3/20): Động đất",
+   "free": false,
+   "chars": 247,
+   "file": "firstaid03.json",
+   "series": "firstaid",
+   "episode": 3,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid02",
+   "level": 4,
+   "title_zh": "第二课：着火了",
+   "title_vi": "Lớp sơ cứu (2/20): Cháy rồi!",
+   "free": true,
+   "chars": 249,
+   "file": "firstaid02.json",
+   "series": "firstaid",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "mythdetective10",
+   "level": 4,
+   "title_zh": "不肯喝汤的鬼",
+   "title_vi": "Thám tử Bạch Trạch (10/15): Con ma không chịu uống canh",
+   "free": false,
+   "chars": 253,
+   "file": "mythdetective10.json",
+   "series": "mythdetective",
+   "episode": 10,
+   "episode_count": 15
+  },
+  {
+   "id": "mythdetective13",
+   "level": 4,
+   "title_zh": "药铺里的白蛇",
+   "title_vi": "Thám tử Bạch Trạch (13/15): Bạch Xà trong hiệu thuốc",
+   "free": false,
+   "chars": 256,
+   "file": "mythdetective13.json",
+   "series": "mythdetective",
+   "episode": 13,
+   "episode_count": 15
+  },
+  {
+   "id": "mythdetective06",
+   "level": 4,
+   "title_zh": "梦里的大胡子",
+   "title_vi": "Thám tử Bạch Trạch (6/15): Gã râu rậm trong giấc mơ",
+   "free": false,
+   "chars": 256,
+   "file": "mythdetective06.json",
+   "series": "mythdetective",
+   "episode": 6,
+   "episode_count": 15
+  },
+  {
    "id": "oddjobs09",
    "level": 4,
    "title_zh": "拟音师",
@@ -3797,6 +4331,30 @@
    "episode_count": 20
   },
   {
+   "id": "firstaid06",
+   "level": 4,
+   "title_zh": "第六课：墙上的小盒子",
+   "title_vi": "Lớp sơ cứu (6/20): Chiếc hộp nhỏ trên tường",
+   "free": false,
+   "chars": 258,
+   "file": "firstaid06.json",
+   "series": "firstaid",
+   "episode": 6,
+   "episode_count": 20
+  },
+  {
+   "id": "firstaid18",
+   "level": 4,
+   "title_zh": "第十八课：我包里的笔",
+   "title_vi": "Lớp sơ cứu (18/20): Cây bút trong túi tôi",
+   "free": false,
+   "chars": 271,
+   "file": "firstaid18.json",
+   "series": "firstaid",
+   "episode": 18,
+   "episode_count": 20
+  },
+  {
    "id": "letter",
    "level": 4,
    "title_zh": "给阿遥的信",
@@ -3804,6 +4362,138 @@
    "free": true,
    "chars": 272,
    "file": "letter.json"
+  },
+  {
+   "id": "mythdetective08",
+   "level": 4,
+   "title_zh": "阴间的大钞票",
+   "title_vi": "Thám tử Bạch Trạch (8/15): Tờ tiền khủng dưới âm phủ",
+   "free": false,
+   "chars": 274,
+   "file": "mythdetective08.json",
+   "series": "mythdetective",
+   "episode": 8,
+   "episode_count": 15
+  },
+  {
+   "id": "mythancient02",
+   "level": 4,
+   "title_zh": "偷不走的仙药",
+   "title_vi": "Thám tử Bạch Trạch: Thần thoại thượng cổ (2/8): Thuốc tiên không ai trộm được",
+   "free": true,
+   "chars": 278,
+   "file": "mythancient02.json",
+   "series": "mythancient",
+   "episode": 2,
+   "episode_count": 8
+  },
+  {
+   "id": "mythancient03",
+   "level": 4,
+   "title_zh": "往海里扔石头的人",
+   "title_vi": "Thám tử Bạch Trạch: Thần thoại thượng cổ (3/8): Kẻ ném đá xuống biển",
+   "free": false,
+   "chars": 279,
+   "file": "mythancient03.json",
+   "series": "mythancient",
+   "episode": 3,
+   "episode_count": 8
+  },
+  {
+   "id": "mythdetective14",
+   "level": 4,
+   "title_zh": "青蛇回来了",
+   "title_vi": "Thám tử Bạch Trạch (14/15): Thanh Xà trở lại",
+   "free": false,
+   "chars": 280,
+   "file": "mythdetective14.json",
+   "series": "mythdetective",
+   "episode": 14,
+   "episode_count": 15
+  },
+  {
+   "id": "mythancient08",
+   "level": 4,
+   "title_zh": "七岁的凶手",
+   "title_vi": "Thám tử Bạch Trạch: Thần thoại thượng cổ (8/8): Hung thủ bảy tuổi",
+   "free": false,
+   "chars": 286,
+   "file": "mythancient08.json",
+   "series": "mythancient",
+   "episode": 8,
+   "episode_count": 8
+  },
+  {
+   "id": "mythancient05",
+   "level": 4,
+   "title_zh": "追太阳的巨人",
+   "title_vi": "Thám tử Bạch Trạch: Thần thoại thượng cổ (5/8): Người khổng lồ đuổi mặt trời",
+   "free": false,
+   "chars": 290,
+   "file": "mythancient05.json",
+   "series": "mythancient",
+   "episode": 5,
+   "episode_count": 8
+  },
+  {
+   "id": "mythdetective12",
+   "level": 4,
+   "title_zh": "兰若寺的金子",
+   "title_vi": "Thám tử Bạch Trạch (12/15): Vàng ở chùa Lan Nhược",
+   "free": false,
+   "chars": 291,
+   "file": "mythdetective12.json",
+   "series": "mythdetective",
+   "episode": 12,
+   "episode_count": 15
+  },
+  {
+   "id": "mythdetective03",
+   "level": 4,
+   "title_zh": "怕红色的怪兽",
+   "title_vi": "Thám tử Bạch Trạch (3/15): Con quái thú sợ màu đỏ",
+   "free": false,
+   "chars": 291,
+   "file": "mythdetective03.json",
+   "series": "mythdetective",
+   "episode": 3,
+   "episode_count": 15
+  },
+  {
+   "id": "firstaid20",
+   "level": 4,
+   "title_zh": "第二十课：电梯里的考试",
+   "title_vi": "Lớp sơ cứu (20/20): Bài thi trong thang máy",
+   "free": false,
+   "chars": 291,
+   "file": "firstaid20.json",
+   "series": "firstaid",
+   "episode": 20,
+   "episode_count": 20
+  },
+  {
+   "id": "mythdetective05",
+   "level": 4,
+   "title_zh": "皇宫里的敲门声",
+   "title_vi": "Thám tử Bạch Trạch (5/15): Tiếng gõ cửa trong hoàng cung",
+   "free": false,
+   "chars": 294,
+   "file": "mythdetective05.json",
+   "series": "mythdetective",
+   "episode": 5,
+   "episode_count": 15
+  },
+  {
+   "id": "mythancient07",
+   "level": 4,
+   "title_zh": "妻子额头上的花",
+   "title_vi": "Thám tử Bạch Trạch: Thần thoại thượng cổ (7/8): Bông hoa trên trán người vợ",
+   "free": false,
+   "chars": 295,
+   "file": "mythancient07.json",
+   "series": "mythancient",
+   "episode": 7,
+   "episode_count": 8
   },
   {
    "id": "charpairs4",
@@ -3815,6 +4505,54 @@
    "file": "charpairs4.json"
   },
   {
+   "id": "mythdetective02",
+   "level": 4,
+   "title_zh": "捉鬼的道士",
+   "title_vi": "Thám tử Bạch Trạch (2/15): Đạo sĩ bắt ma",
+   "free": true,
+   "chars": 304,
+   "file": "mythdetective02.json",
+   "series": "mythdetective",
+   "episode": 2,
+   "episode_count": 15
+  },
+  {
+   "id": "mythdetective15",
+   "level": 4,
+   "title_zh": "白泽图",
+   "title_vi": "Thám tử Bạch Trạch (15/15): Bạch Trạch đồ",
+   "free": false,
+   "chars": 307,
+   "file": "mythdetective15.json",
+   "series": "mythdetective",
+   "episode": 15,
+   "episode_count": 15
+  },
+  {
+   "id": "mythancient06",
+   "level": 4,
+   "title_zh": "湖边丢失的仙衣",
+   "title_vi": "Thám tử Bạch Trạch: Thần thoại thượng cổ (6/8): Chiếc áo tiên mất bên hồ",
+   "free": false,
+   "chars": 307,
+   "file": "mythancient06.json",
+   "series": "mythancient",
+   "episode": 6,
+   "episode_count": 8
+  },
+  {
+   "id": "mythancient04",
+   "level": 4,
+   "title_zh": "被砍走的四条腿",
+   "title_vi": "Thám tử Bạch Trạch: Thần thoại thượng cổ (4/8): Bốn cái chân bị chặt mất",
+   "free": false,
+   "chars": 309,
+   "file": "mythancient04.json",
+   "series": "mythancient",
+   "episode": 4,
+   "episode_count": 8
+  },
+  {
    "id": "study",
    "level": 4,
    "title_zh": "卢卡斯的捷径",
@@ -3822,6 +4560,30 @@
    "free": false,
    "chars": 310,
    "file": "study.json"
+  },
+  {
+   "id": "mythdetective11",
+   "level": 4,
+   "title_zh": "中元节的河灯",
+   "title_vi": "Thám tử Bạch Trạch (11/15): Đèn hoa đăng đêm Trung Nguyên",
+   "free": false,
+   "chars": 314,
+   "file": "mythdetective11.json",
+   "series": "mythdetective",
+   "episode": 11,
+   "episode_count": 15
+  },
+  {
+   "id": "mythdetective07",
+   "level": 4,
+   "title_zh": "头七的脚印",
+   "title_vi": "Thám tử Bạch Trạch (7/15): Dấu chân đêm đầu thất",
+   "free": false,
+   "chars": 314,
+   "file": "mythdetective07.json",
+   "series": "mythdetective",
+   "episode": 7,
+   "episode_count": 15
   },
   {
    "id": "traditions_fading",
@@ -3885,6 +4647,18 @@
    "free": false,
    "chars": 332,
    "file": "degree_pressure.json"
+  },
+  {
+   "id": "mythdetective09",
+   "level": 4,
+   "title_zh": "生死簿上的墨点",
+   "title_vi": "Thám tử Bạch Trạch (9/15): Vết mực trên sổ Sinh Tử",
+   "free": false,
+   "chars": 333,
+   "file": "mythdetective09.json",
+   "series": "mythdetective",
+   "episode": 9,
+   "episode_count": 15
   },
   {
    "id": "shortvideo",
@@ -3993,6 +4767,18 @@
    "free": false,
    "chars": 347,
    "file": "ai_companion4.json"
+  },
+  {
+   "id": "mythdetective04",
+   "level": 4,
+   "title_zh": "收了糖的证人",
+   "title_vi": "Thám tử Bạch Trạch (4/15): Nhân chứng nhận kẹo",
+   "free": false,
+   "chars": 348,
+   "file": "mythdetective04.json",
+   "series": "mythdetective",
+   "episode": 4,
+   "episode_count": 15
   },
   {
    "id": "ai_education4",
@@ -4589,6 +5375,18 @@
    "file": "pclexicon5.json"
   },
   {
+   "id": "dynasties01",
+   "level": 5,
+   "title_zh": "三皇五帝：传说中的祖先",
+   "title_vi": "Lịch sử Trung Quốc (1/20): Tam Hoàng Ngũ Đế, những vị tổ tiên trong truyền thuyết",
+   "free": true,
+   "chars": 412,
+   "file": "dynasties01.json",
+   "series": "dynasties",
+   "episode": 1,
+   "episode_count": 20
+  },
+  {
    "id": "recipes01",
    "level": 5,
    "title_zh": "宫保鸡丁",
@@ -4635,6 +5433,18 @@
    "series": "worldnews",
    "episode": 1,
    "episode_count": 20
+  },
+  {
+   "id": "oldjobs01",
+   "level": 5,
+   "title_zh": "停电的晚上：赶尸匠",
+   "title_vi": "Ông kể chuyện nghề xưa (1/15): Đêm mất điện — thầy cản thi",
+   "free": true,
+   "chars": 606,
+   "file": "oldjobs01.json",
+   "series": "oldjobs",
+   "episode": 1,
+   "episode_count": 15
   },
   {
    "id": "cooking5",
@@ -4703,6 +5513,162 @@
    "episode_count": 20
   },
   {
+   "id": "dynasties17",
+   "level": 5,
+   "title_zh": "清朝：天朝什么都有",
+   "title_vi": "Lịch sử Trung Quốc (17/20): Nhà Thanh, “thiên triều cái gì cũng có”",
+   "free": false,
+   "chars": 254,
+   "file": "dynasties17.json",
+   "series": "dynasties",
+   "episode": 17,
+   "episode_count": 20
+  },
+  {
+   "id": "oldjobs11",
+   "level": 5,
+   "title_zh": "“来喽——！”：堂倌",
+   "title_vi": "Ông kể chuyện nghề xưa (11/15): “Có ngay —!” — tiểu nhị",
+   "free": false,
+   "chars": 304,
+   "file": "oldjobs11.json",
+   "series": "oldjobs",
+   "episode": 11,
+   "episode_count": 15
+  },
+  {
+   "id": "oldjobs10",
+   "level": 5,
+   "title_zh": "冬天的冰，夏天卖：采冰人",
+   "title_vi": "Ông kể chuyện nghề xưa (10/15): Băng mùa đông, bán mùa hè — người khai thác băng",
+   "free": false,
+   "chars": 327,
+   "file": "oldjobs10.json",
+   "series": "oldjobs",
+   "episode": 10,
+   "episode_count": 15
+  },
+  {
+   "id": "oldjobs09",
+   "level": 5,
+   "title_zh": "石头上的绳印：纤夫",
+   "title_vi": "Ông kể chuyện nghề xưa (9/15): Vết dây trên đá — phu kéo thuyền",
+   "free": false,
+   "chars": 329,
+   "file": "oldjobs09.json",
+   "series": "oldjobs",
+   "episode": 9,
+   "episode_count": 15
+  },
+  {
+   "id": "oldjobs13",
+   "level": 5,
+   "title_zh": "门框上的“正”字：送水的",
+   "title_vi": "Ông kể chuyện nghề xưa (13/15): Chữ “chính” trên khung cửa — phu gánh nước",
+   "free": false,
+   "chars": 334,
+   "file": "oldjobs13.json",
+   "series": "oldjobs",
+   "episode": 13,
+   "episode_count": 15
+  },
+  {
+   "id": "dynasties15",
+   "level": 5,
+   "title_zh": "元朝：会燃烧的黑石头",
+   "title_vi": "Lịch sử Trung Quốc (15/20): Nhà Nguyên và những hòn đá đen biết cháy",
+   "free": false,
+   "chars": 348,
+   "file": "dynasties15.json",
+   "series": "dynasties",
+   "episode": 15,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties19",
+   "level": 5,
+   "title_zh": "民国：八十三天的皇帝",
+   "title_vi": "Lịch sử Trung Quốc (19/20): Thời Dân quốc, vị hoàng đế tám mươi ba ngày",
+   "free": false,
+   "chars": 350,
+   "file": "dynasties19.json",
+   "series": "dynasties",
+   "episode": 19,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties16",
+   "level": 5,
+   "title_zh": "明朝：从和尚到皇帝",
+   "title_vi": "Lịch sử Trung Quốc (16/20): Nhà Minh, từ nhà sư đến hoàng đế",
+   "free": false,
+   "chars": 351,
+   "file": "dynasties16.json",
+   "series": "dynasties",
+   "episode": 16,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties14",
+   "level": 5,
+   "title_zh": "南宋：背上的四个字",
+   "title_vi": "Lịch sử Trung Quốc (14/20): Nam Tống, bốn chữ trên lưng",
+   "free": false,
+   "chars": 359,
+   "file": "dynasties14.json",
+   "series": "dynasties",
+   "episode": 14,
+   "episode_count": 20
+  },
+  {
+   "id": "oldjobs12",
+   "level": 5,
+   "title_zh": "换两个字：讼师",
+   "title_vi": "Ông kể chuyện nghề xưa (12/15): Đổi chỗ hai chữ — thầy kiện",
+   "free": false,
+   "chars": 361,
+   "file": "oldjobs12.json",
+   "series": "oldjobs",
+   "episode": 12,
+   "episode_count": 15
+  },
+  {
+   "id": "dynasties13",
+   "level": 5,
+   "title_zh": "北宋：一幅画里的城市",
+   "title_vi": "Lịch sử Trung Quốc (13/20): Bắc Tống, một thành phố trong bức tranh",
+   "free": false,
+   "chars": 364,
+   "file": "dynasties13.json",
+   "series": "dynasties",
+   "episode": 13,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties12",
+   "level": 5,
+   "title_zh": "唐朝：长安的一百万人",
+   "title_vi": "Lịch sử Trung Quốc (12/20): Nhà Đường và một triệu người ở Trường An",
+   "free": false,
+   "chars": 365,
+   "file": "dynasties12.json",
+   "series": "dynasties",
+   "episode": 12,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties11",
+   "level": 5,
+   "title_zh": "隋朝：一条河和一场考试",
+   "title_vi": "Lịch sử Trung Quốc (11/20): Nhà Tùy, một dòng kênh và một kỳ thi",
+   "free": false,
+   "chars": 367,
+   "file": "dynasties11.json",
+   "series": "dynasties",
+   "episode": 11,
+   "episode_count": 20
+  },
+  {
    "id": "reconcile_informal5",
    "level": 5,
    "title_zh": "冰箱上的白板",
@@ -4710,6 +5676,66 @@
    "free": true,
    "chars": 375,
    "file": "reconcile_informal5.json"
+  },
+  {
+   "id": "dynasties08",
+   "level": 5,
+   "title_zh": "西汉：为什么叫“汉人”",
+   "title_vi": "Lịch sử Trung Quốc (8/20): Tây Hán, vì sao gọi là “người Hán”",
+   "free": false,
+   "chars": 377,
+   "file": "dynasties08.json",
+   "series": "dynasties",
+   "episode": 8,
+   "episode_count": 20
+  },
+  {
+   "id": "oldjobs14",
+   "level": 5,
+   "title_zh": "吹出来的猴子：吹糖人和拉洋片",
+   "title_vi": "Ông kể chuyện nghề xưa (14/15): Chú khỉ thổi ra từ hơi thở — người thổi kẹo đường và hộp tranh Tây",
+   "free": false,
+   "chars": 386,
+   "file": "oldjobs14.json",
+   "series": "oldjobs",
+   "episode": 14,
+   "episode_count": 15
+  },
+  {
+   "id": "dynasties18",
+   "level": 5,
+   "title_zh": "晚清：不会动的石船",
+   "title_vi": "Lịch sử Trung Quốc (18/20): Cuối nhà Thanh, chiếc thuyền đá không bao giờ rời bến",
+   "free": false,
+   "chars": 390,
+   "file": "dynasties18.json",
+   "series": "dynasties",
+   "episode": 18,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties05",
+   "level": 5,
+   "title_zh": "春秋：争霸与卧薪尝胆",
+   "title_vi": "Lịch sử Trung Quốc (5/20): Xuân Thu, tranh bá và nằm gai nếm mật",
+   "free": false,
+   "chars": 390,
+   "file": "dynasties05.json",
+   "series": "dynasties",
+   "episode": 5,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties09",
+   "level": 5,
+   "title_zh": "东汉与三国：从地动仪到赤壁",
+   "title_vi": "Lịch sử Trung Quốc (9/20): Đông Hán và Tam Quốc, từ địa động nghi đến Xích Bích",
+   "free": false,
+   "chars": 397,
+   "file": "dynasties09.json",
+   "series": "dynasties",
+   "episode": 9,
+   "episode_count": 20
   },
   {
    "id": "gender5",
@@ -4721,6 +5747,54 @@
    "file": "gender5.json"
   },
   {
+   "id": "dynasties02",
+   "level": 5,
+   "title_zh": "大禹治水与夏朝",
+   "title_vi": "Lịch sử Trung Quốc (2/20): Đại Vũ trị thủy và nhà Hạ",
+   "free": true,
+   "chars": 408,
+   "file": "dynasties02.json",
+   "series": "dynasties",
+   "episode": 2,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties20",
+   "level": 5,
+   "title_zh": "新中国：小渔村和大城市",
+   "title_vi": "Lịch sử Trung Quốc (20/20): Trung Quốc mới, từ làng chài nhỏ đến thành phố lớn",
+   "free": false,
+   "chars": 411,
+   "file": "dynasties20.json",
+   "series": "dynasties",
+   "episode": 20,
+   "episode_count": 20
+  },
+  {
+   "id": "oldjobs15",
+   "level": 5,
+   "title_zh": "且听下回分解：说书人",
+   "title_vi": "Ông kể chuyện nghề xưa (15/15): Hồi sau sẽ rõ — người kể chuyện",
+   "free": false,
+   "chars": 413,
+   "file": "oldjobs15.json",
+   "series": "oldjobs",
+   "episode": 15,
+   "episode_count": 15
+  },
+  {
+   "id": "dynasties07",
+   "level": 5,
+   "title_zh": "秦朝：第一个皇帝",
+   "title_vi": "Lịch sử Trung Quốc (7/20): Nhà Tần và vị hoàng đế đầu tiên",
+   "free": false,
+   "chars": 414,
+   "file": "dynasties07.json",
+   "series": "dynasties",
+   "episode": 7,
+   "episode_count": 20
+  },
+  {
    "id": "influencer5",
    "level": 5,
    "title_zh": "第四十七次",
@@ -4728,6 +5802,18 @@
    "free": false,
    "chars": 414,
    "file": "influencer5.json"
+  },
+  {
+   "id": "dynasties06",
+   "level": 5,
+   "title_zh": "战国：一根木头和百家争鸣",
+   "title_vi": "Lịch sử Trung Quốc (6/20): Chiến Quốc, một cây gỗ và trăm nhà đua tiếng",
+   "free": false,
+   "chars": 417,
+   "file": "dynasties06.json",
+   "series": "dynasties",
+   "episode": 6,
+   "episode_count": 20
   },
   {
    "id": "addiction5",
@@ -4739,6 +5825,18 @@
    "file": "addiction5.json"
   },
   {
+   "id": "dynasties03",
+   "level": 5,
+   "title_zh": "商朝：药铺里的“龙骨”",
+   "title_vi": "Lịch sử Trung Quốc (3/20): Nhà Thương và những “long cốt” trong hiệu thuốc",
+   "free": false,
+   "chars": 427,
+   "file": "dynasties03.json",
+   "series": "dynasties",
+   "episode": 3,
+   "episode_count": 20
+  },
+  {
    "id": "ecommerce5",
    "level": 5,
    "title_zh": "六楼的包裹",
@@ -4746,6 +5844,54 @@
    "free": false,
    "chars": 430,
    "file": "ecommerce5.json"
+  },
+  {
+   "id": "oldjobs06",
+   "level": 5,
+   "title_zh": "菜市口的刀：刽子手",
+   "title_vi": "Ông kể chuyện nghề xưa (6/15): Lưỡi đao ở Thái Thị Khẩu — đao phủ",
+   "free": false,
+   "chars": 434,
+   "file": "oldjobs06.json",
+   "series": "oldjobs",
+   "episode": 6,
+   "episode_count": 15
+  },
+  {
+   "id": "dynasties04",
+   "level": 5,
+   "title_zh": "西周：天命与烽火",
+   "title_vi": "Lịch sử Trung Quốc (4/20): Tây Chu, thiên mệnh và lửa hiệu",
+   "free": false,
+   "chars": 435,
+   "file": "dynasties04.json",
+   "series": "dynasties",
+   "episode": 4,
+   "episode_count": 20
+  },
+  {
+   "id": "dynasties10",
+   "level": 5,
+   "title_zh": "两晋南北朝：分裂中的光",
+   "title_vi": "Lịch sử Trung Quốc (10/20): Lưỡng Tấn Nam Bắc triều, ánh sáng giữa thời chia cắt",
+   "free": false,
+   "chars": 437,
+   "file": "dynasties10.json",
+   "series": "dynasties",
+   "episode": 10,
+   "episode_count": 20
+  },
+  {
+   "id": "oldjobs07",
+   "level": 5,
+   "title_zh": "“合——吾——！”：镖师",
+   "title_vi": "Ông kể chuyện nghề xưa (7/15): “Hợp — ngô —!” — tiêu sư",
+   "free": false,
+   "chars": 437,
+   "file": "oldjobs07.json",
+   "series": "oldjobs",
+   "episode": 7,
+   "episode_count": 15
   },
   {
    "id": "toilet5",
@@ -4784,6 +5930,18 @@
    "file": "videogames5.json"
   },
   {
+   "id": "oldjobs03",
+   "level": 5,
+   "title_zh": "最臭的生意：掏粪的人",
+   "title_vi": "Ông kể chuyện nghề xưa (3/15): Nghề buôn thối nhất — người đi đổ phân",
+   "free": false,
+   "chars": 445,
+   "file": "oldjobs03.json",
+   "series": "oldjobs",
+   "episode": 3,
+   "episode_count": 15
+  },
+  {
    "id": "gym5",
    "level": 5,
    "title_zh": "年卡",
@@ -4800,6 +5958,18 @@
    "free": false,
    "chars": 448,
    "file": "transport5.json"
+  },
+  {
+   "id": "oldjobs04",
+   "level": 5,
+   "title_zh": "会唱歌的铁夹子：剃头匠",
+   "title_vi": "Ông kể chuyện nghề xưa (4/15): Chiếc kẹp sắt biết hát — thợ cạo đầu rong",
+   "free": false,
+   "chars": 452,
+   "file": "oldjobs04.json",
+   "series": "oldjobs",
+   "episode": 4,
+   "episode_count": 15
   },
   {
    "id": "contract5",
@@ -4838,6 +6008,18 @@
    "file": "history20c5.json"
   },
   {
+   "id": "oldjobs02",
+   "level": 5,
+   "title_zh": "三更天：打更的人",
+   "title_vi": "Ông kể chuyện nghề xưa (2/15): Canh ba — người gõ mõ cầm canh",
+   "free": true,
+   "chars": 470,
+   "file": "oldjobs02.json",
+   "series": "oldjobs",
+   "episode": 2,
+   "episode_count": 15
+  },
+  {
    "id": "taiji5",
    "level": 5,
    "title_zh": "慢",
@@ -4865,6 +6047,18 @@
    "file": "familyquarrel5.json"
   },
   {
+   "id": "oldjobs08",
+   "level": 5,
+   "title_zh": "灶台下的红帖：媒婆",
+   "title_vi": "Ông kể chuyện nghề xưa (8/15): Tấm thiếp đỏ dưới bàn thờ Táo — bà mối",
+   "free": false,
+   "chars": 474,
+   "file": "oldjobs08.json",
+   "series": "oldjobs",
+   "episode": 8,
+   "episode_count": 15
+  },
+  {
    "id": "scam5",
    "level": 5,
    "title_zh": "不要告诉任何人",
@@ -4890,6 +6084,18 @@
    "free": false,
    "chars": 483,
    "file": "parenting5.json"
+  },
+  {
+   "id": "oldjobs05",
+   "level": 5,
+   "title_zh": "替死人说话的人：仵作",
+   "title_vi": "Ông kể chuyện nghề xưa (5/15): Người nói thay người chết — ngỗ tác",
+   "free": false,
+   "chars": 484,
+   "file": "oldjobs05.json",
+   "series": "oldjobs",
+   "episode": 5,
+   "episode_count": 15
   },
   {
    "id": "urbanrural5",
@@ -6962,6 +8168,18 @@
    "episode_count": 20
   },
   {
+   "id": "palace01",
+   "level": 6,
+   "title_zh": "熄灯以后：后悔不后悔？",
+   "title_vi": "Chuyện đêm ký túc xá (1/15): Sau giờ tắt đèn — “hối hận hay không?”",
+   "free": true,
+   "chars": 536,
+   "file": "palace01.json",
+   "series": "palace",
+   "episode": 1,
+   "episode_count": 15
+  },
+  {
    "id": "l6slang1",
    "level": 6,
    "title_zh": "十一点睡觉",
@@ -7191,6 +8409,174 @@
    "series": "construction",
    "episode": 1,
    "episode_count": 20
+  },
+  {
+   "id": "palace14",
+   "level": 6,
+   "title_zh": "慈禧身边的两个人",
+   "title_vi": "Chuyện đêm ký túc xá (14/15): Hai người bên cạnh Từ Hi",
+   "free": false,
+   "chars": 399,
+   "file": "palace14.json",
+   "series": "palace",
+   "episode": 14,
+   "episode_count": 15
+  },
+  {
+   "id": "palace12",
+   "level": 6,
+   "title_zh": "站着的皇帝",
+   "title_vi": "Chuyện đêm ký túc xá (12/15): Hoàng đế đứng",
+   "free": false,
+   "chars": 404,
+   "file": "palace12.json",
+   "series": "palace",
+   "episode": 12,
+   "episode_count": 15
+  },
+  {
+   "id": "palace06",
+   "level": 6,
+   "title_zh": "宫墙里的日子",
+   "title_vi": "Chuyện đêm ký túc xá (6/15): Những ngày sau tường cung",
+   "free": false,
+   "chars": 405,
+   "file": "palace06.json",
+   "series": "palace",
+   "episode": 6,
+   "episode_count": 15
+  },
+  {
+   "id": "palace09",
+   "level": 6,
+   "title_zh": "别让皇帝闲着",
+   "title_vi": "Chuyện đêm ký túc xá (9/15): Đừng để hoàng đế rảnh rỗi",
+   "free": false,
+   "chars": 412,
+   "file": "palace09.json",
+   "series": "palace",
+   "episode": 9,
+   "episode_count": 15
+  },
+  {
+   "id": "palace11",
+   "level": 6,
+   "title_zh": "土木堡的那一天",
+   "title_vi": "Chuyện đêm ký túc xá (11/15): Ngày hôm ấy ở Thổ Mộc Bảo",
+   "free": false,
+   "chars": 420,
+   "file": "palace11.json",
+   "series": "palace",
+   "episode": 11,
+   "episode_count": 15
+  },
+  {
+   "id": "palace13",
+   "level": 6,
+   "title_zh": "九千岁和木匠皇帝",
+   "title_vi": "Chuyện đêm ký túc xá (13/15): Cửu Thiên Tuế và ông vua thợ mộc",
+   "free": false,
+   "chars": 422,
+   "file": "palace13.json",
+   "series": "palace",
+   "episode": 13,
+   "episode_count": 15
+  },
+  {
+   "id": "palace07",
+   "level": 6,
+   "title_zh": "是鹿还是马？",
+   "title_vi": "Chuyện đêm ký túc xá (7/15): Hươu hay ngựa?",
+   "free": false,
+   "chars": 436,
+   "file": "palace07.json",
+   "series": "palace",
+   "episode": 7,
+   "episode_count": 15
+  },
+  {
+   "id": "palace03",
+   "level": 6,
+   "title_zh": "步步高升的“宝贝”",
+   "title_vi": "Chuyện đêm ký túc xá (3/15): “Bảo bối” bộ bộ cao thăng",
+   "free": false,
+   "chars": 443,
+   "file": "palace03.json",
+   "series": "palace",
+   "episode": 3,
+   "episode_count": 15
+  },
+  {
+   "id": "palace04",
+   "level": 6,
+   "title_zh": "无名白",
+   "title_vi": "Chuyện đêm ký túc xá (4/15): Những kẻ “vô danh bạch”",
+   "free": false,
+   "chars": 454,
+   "file": "palace04.json",
+   "series": "palace",
+   "episode": 4,
+   "episode_count": 15
+  },
+  {
+   "id": "palace05",
+   "level": 6,
+   "title_zh": "医学生的夜间讲座",
+   "title_vi": "Chuyện đêm ký túc xá (5/15): Bài giảng nửa đêm của cậu sinh viên Y",
+   "free": false,
+   "chars": 456,
+   "file": "palace05.json",
+   "series": "palace",
+   "episode": 5,
+   "episode_count": 15
+  },
+  {
+   "id": "palace02",
+   "level": 6,
+   "title_zh": "三天不许喝水",
+   "title_vi": "Chuyện đêm ký túc xá (2/15): Ba ngày không được uống nước",
+   "free": true,
+   "chars": 457,
+   "file": "palace02.json",
+   "series": "palace",
+   "episode": 2,
+   "episode_count": 15
+  },
+  {
+   "id": "palace15",
+   "level": 6,
+   "title_zh": "最后一个太监",
+   "title_vi": "Chuyện đêm ký túc xá (15/15): Thái giám cuối cùng",
+   "free": false,
+   "chars": 464,
+   "file": "palace15.json",
+   "series": "palace",
+   "episode": 15,
+   "episode_count": 15
+  },
+  {
+   "id": "palace10",
+   "level": 6,
+   "title_zh": "长脖子的麒麟",
+   "title_vi": "Chuyện đêm ký túc xá (10/15): Con kỳ lân cổ dài",
+   "free": false,
+   "chars": 467,
+   "file": "palace10.json",
+   "series": "palace",
+   "episode": 10,
+   "episode_count": 15
+  },
+  {
+   "id": "palace08",
+   "level": 6,
+   "title_zh": "重于泰山",
+   "title_vi": "Chuyện đêm ký túc xá (8/15): Nặng tựa Thái Sơn",
+   "free": false,
+   "chars": 507,
+   "file": "palace08.json",
+   "series": "palace",
+   "episode": 8,
+   "episode_count": 15
   },
   {
    "id": "l6slang2",

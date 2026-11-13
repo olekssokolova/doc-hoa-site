@@ -256,6 +256,54 @@
    "level": 5,
    "description_vi": "Những chuyện ngắn vui nhộn về nhầm lẫn, trùng hợp và may mắn bất ngờ trong cuộc sống của người dân Trung Quốc hiện nay.",
    "cover_id": "funnytales01"
+  },
+  {
+   "id": "firstaid",
+   "title_zh": "急救课",
+   "title_vi": "Lớp sơ cứu",
+   "level": 4,
+   "description_vi": "Hai mươi bài học với một nhân viên cấp cứu đã nghỉ hưu ở Trung Quốc: hỏa hoạn, động đất, nhồi máu cơ tim, hồi sức tim phổi (CPR), co giật, bỏng và nhiều tình huống khác, kèm các số điện thoại cần gọi ở Trung Quốc.",
+   "cover_id": "firstaid01"
+  },
+  {
+   "id": "dynasties",
+   "title_zh": "中国通史：从传说到今天",
+   "title_vi": "Lịch sử Trung Quốc: Từ truyền thuyết đến hôm nay",
+   "level": 5,
+   "description_vi": "Toàn bộ lịch sử Trung Quốc trong hai mươi chương: từ Tam Hoàng Ngũ Đế trong truyền thuyết, qua từng triều đại, đến Trung Quốc hiện đại.",
+   "cover_id": "dynasties01"
+  },
+  {
+   "id": "oldjobs",
+   "title_zh": "爷爷讲老行当",
+   "title_vi": "Ông kể chuyện nghề xưa",
+   "level": 5,
+   "description_vi": "Những đêm hè trong ngôi nhà gỗ cũ, người ông kể cho các cháu nghe về những nghề kỳ lạ nhất của Trung Quốc xưa: từ thầy cản thi, người gõ mõ cầm canh đến người gánh nước thuê.",
+   "cover_id": "oldjobs01"
+  },
+  {
+   "id": "palace",
+   "title_zh": "宿舍夜话：深宫里的太监",
+   "title_vi": "Chuyện đêm ký túc xá: Bí mật thái giám chốn thâm cung",
+   "level": 6,
+   "description_vi": "Sau giờ tắt đèn, bốn sinh viên cùng phòng kể cho nhau nghe lịch sử có thật của đời sống trong cung: thái giám được tạo ra thế nào, họ chịu những khổ đau gì, và vì sao có người trong số họ từng nắm cả triều chính.",
+   "cover_id": "palace01"
+  },
+  {
+   "id": "mythdetective",
+   "title_zh": "神探白泽",
+   "title_vi": "Thám tử Bạch Trạch: Những vụ án từ thần thoại Trung Hoa",
+   "level": 4,
+   "description_vi": "Tiểu Thổ, một vị thổ địa bé tí, làm việc cho Bạch Trạch, thần thú trắng biết tên mọi loài yêu quái. Hai người cùng điều tra những hồn ma, thần linh và yêu quái nổi tiếng trong truyện dân gian Trung Hoa, và đằng sau mỗi vụ án thường là một câu chuyện về con người.",
+   "cover_id": "mythdetective01"
+  },
+  {
+   "id": "mythancient",
+   "title_zh": "神探白泽：上古神话",
+   "title_vi": "Thám tử Bạch Trạch: Thần thoại thượng cổ",
+   "level": 4,
+   "description_vi": "Bạch Trạch và Tiểu Thổ nhận những vụ án từ các thần thoại cổ nhất Trung Hoa: chín mặt trời biến mất, Hằng Nga bay lên cung trăng, chim Tinh Vệ lấp biển, cột chống trời bị gãy và nhiều chuyện khác.",
+   "cover_id": "mythancient01"
   }
  ]
 }
